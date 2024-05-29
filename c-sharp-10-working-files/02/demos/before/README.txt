@@ -1,0 +1,1 @@
+To follow along with the demos, copy the psdata directory from this folder and paste it at the root of your C: drive.
